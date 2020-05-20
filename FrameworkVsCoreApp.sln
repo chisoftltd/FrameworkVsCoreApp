@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullChisoftFrameworkMVC", "FullChisoftFrameworkMVC\FullChisoftFrameworkMVC.csproj", "{11479960-DD06-4914-9D20-948F35366E83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreMVC", "CoreMVC\CoreMVC.csproj", "{E74EC7D9-2181-4818-ACCB-37956C67C190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11479960-DD06-4914-9D20-948F35366E83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11479960-DD06-4914-9D20-948F35366E83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11479960-DD06-4914-9D20-948F35366E83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11479960-DD06-4914-9D20-948F35366E83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74EC7D9-2181-4818-ACCB-37956C67C190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74EC7D9-2181-4818-ACCB-37956C67C190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74EC7D9-2181-4818-ACCB-37956C67C190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74EC7D9-2181-4818-ACCB-37956C67C190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FA6575E-BD90-4403-9769-6E1643170EB5}
+	EndGlobalSection
+EndGlobal
